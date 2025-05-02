@@ -66,6 +66,7 @@ All data is stored in a **MongoDB** collection.
 ---
 
 ## 📸 Preview
-![image](https://github.com/user-attachments/assets/51f27475-af75-4313-8a5c-c18eebd23b93)
+![image](https://github.com/user-attachments/assets/3cbdd219-a9c6-4c71-b554-14da385ed776)
+
 
 
